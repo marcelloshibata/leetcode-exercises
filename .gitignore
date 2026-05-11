@@ -1,6 +1,7 @@
-\.vscode
-*.exe
-*.ilk
-*.obj
-*.pdb
-*.json
+.vscode/
+CppProperties.json
+exercises/*.exe
+exercises/*.exe
+exercises/*.ilk
+exercises/*.obj
+exercises/*.pdb
